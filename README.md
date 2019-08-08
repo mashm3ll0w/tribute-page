@@ -10,7 +10,7 @@ This is project 01 for ``Responsive Web Design Certification`` from ``FreeCodeCa
 
 
 ## How To Use
-Open the project on my ``github pages`` by following this link ``https://mashm3ll0w.github.io/tribute-page``
+Open the project on my ``github pages`` by following this link https://mashm3ll0w.github.io/tribute-page
 
 
 ##  Technologies used
